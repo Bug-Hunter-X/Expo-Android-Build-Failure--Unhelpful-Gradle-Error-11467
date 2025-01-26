@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android APK. The build process fails with the error message "FAILURE: Build failed with an exception.". The full error log is quite extensive and unhelpful, but it points to an issue within the Android Gradle plugin.  The project compiles successfully on iOS without issue.
